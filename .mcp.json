@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "unityMCP": {
+      "type": "stdio",
+      "command": "C:\\Users\\pepit\\.unity-mcp-venv\\Scripts\\mcp-for-unity.exe",
+      "args": ["--transport", "stdio"]
+    }
+  }
+}
